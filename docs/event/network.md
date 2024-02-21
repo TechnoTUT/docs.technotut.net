@@ -4,7 +4,6 @@ sidebar_label: Network
 sidebar_position: 5
 ---
 Last update: 2023/10/21 by DDlia  
---- 
 ## 概要
 ここではイベント時のネットワークの設営・撤去について説明します。  
 設計については、https://network.technotut.net/ を参照してください。  
